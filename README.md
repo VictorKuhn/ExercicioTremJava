@@ -3,15 +3,13 @@ Exercício de JAVA para prática de Pair Programming.
 
 ### História do usuário:
 
-#### Nome da História do Usuário: Sistema de Controle de Trens para Nossa Operação Ferroviária
-
-Eu sou: Um gerente de operações ferroviárias da Empresa XYZ.
-
 #### Objetivo: Precisamos de um sistema de controle de trens que nos permita operar com eficiência em nossos trilhos, tanto infinitos quanto finitos, garantindo a segurança e o cumprimento dos horários.
 
 #### Cenário:
 
-Sou responsável pela gestão da nossa frota de trens e pelo controle das operações em nossa rede ferroviária. Nossa empresa opera em trilhos que variam de infinitos, em áreas rurais, a trilhos finitos em áreas urbanas.
+Sou responsável pela gestão da nossa frota de trens e pelo controle das operações em nossa rede ferroviária. Nossa empresa opera em trilhos que variam de infinitos, em áreas rurais, a trilhos finitos em áreas urbanas e precisamos de um sistema de controle de trens para nossas operações ferroviárias.
+Nossa empresa é responsável por gerenciar trilhos em diversos lugares do mundo, abrangendo tanto pequenas cidades quanto rotas que levam o trem que percorrem países inteiros, portanto seria bom se o sistema abrangesse tanto trilhos com bifurcações infinitas mas que também pudesse ser limitado.
+Precisamos que o sistema tenha também os seguintes pontos:
 
 Sistema Flexível: Precisamos de um sistema que seja flexível o suficiente para atender aos diferentes tipos de trilhos que utilizamos. Às vezes, nossos trens operam em trilhos que se estendem indefinidamente, enquanto em outras áreas, precisamos operar em trilhos finitos com limites bem definidos.
 
